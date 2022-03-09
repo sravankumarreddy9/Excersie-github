@@ -1,0 +1,18 @@
+HTTP status codes
+To refer to a single status code, use the following formatting and phrasing:
+
+an HTTP 400 Bad Request status code
+
+In particular, call it a status code instead of a response code or error code, and put the number and the name in code font. If the HTTP is implicit from context, you can leave it out.
+
+To refer to a range of codes, use the following form:
+
+an HTTP 2xx or 400 status code
+
+In particular, use Nxx (with a specific digit in place of N) to indicate anything in the N00-N99 range, and put the status code number in code font even if you're leaving out the code's name.
+
+If you prefer to specify an exact range, you can do so:
+
+an HTTP status code in the 200-299 range
+
+Here, too, put the numbers in code font.
